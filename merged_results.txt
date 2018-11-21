@@ -1,0 +1,1293 @@
+1: A gyermekét általános iskolába írató szülő gondolkodóba esik , milyen oktatási intézményt válasszon csemetéjének . # #
+általános általános [Adj][semmi]
+általános általános [Adj][semmi]
+írató írató [Adj][semmi]
+írató írató [Adj][semmi]
+szülő szülő [N][nom]
+szülő szülő [N][nom]
+milyen milyen [Adj|Pro|Int][semmi]
+milyen milyen [Adj|Pro|Int][semmi]
+oktatási oktatási [Adj][semmi]
+oktatási oktatási [Adj][semmi]
+
+ 
+2: Mindez elsősorban az egyes régiók erényeinek és hiányosságainak felsorakoztatása céljából fontos , mert nézetünk szerint csupán így lehet pontosan megfogalmazni a követendő irány által megszabott feladatokat . # #
+Mindez mindez [Det|Pro][nom]
+Mindez mindez [Det|Pro][nom]
+egyes egyes [Adj][semmi]
+egyes egyes [Adj][semmi]
+régiók régió [N][Pl][gen]
+régiók régió [N][Pl][gen]
+felsorakoztatása felsorakoztatás [N][Poss.3Sg][gen]
+felsorakoztatása felsorakoztatás [N][Poss.3Sg][gen]
+fontos fontos [Adj][pred]
+fontos fontos [Adj][pred]
+nézetünk nézet [N][Poss.1Pl][semmi]
+nézetünk nézet [N][Poss.1Pl][semmi]
+követendő követendő [Adj][semmi]
+követendő követendő [Adj][semmi]
+irány irány [N][semmi]
+irány irány [N][semmi]
+megszabott megszabott [Adj][semmi]
+megszabott megszabott [Adj][semmi]
+
+ 
+3: Hozzá vagytok szokva a dezinformációhoz , ahhoz , hogy a képetekbe hazudnak , el sem tudjátok képzelni , hogy nem mindenhol működik így . # #
+
+ 
+4: Alol pedig az al-torjai SIMON_Lörintz szántó főlde melyet most actu , futásfalvi BARDOTZ_Lőrintz bír . # #
+Alol Alol [N][hiba]
+Alol Alol [N][nomorpred]
+al-torjai al-tor<incorrect_word> [N][Pl.Poss.3Sg][hiba]
+al-torjai al-tor<incorrect_word> [N][Pl.Poss.3Sg][nomorpred]
+SIMON_Lörintz Simon_Lörintz [Prop][hiba]
+SIMON_Lörintz SIMON_Lörintz [Prop][nom]
+szántó szántó [N][hiba]
+szántó szántó [N][nulla]
+főlde főlde [N][nom]
+főlde főlde [N][nomorpred]
+actu actu [N][hiba]
+actu actu [N][nomorpred]
+futásfalvi futásfalvi [Adj][semmi]
+futásfalvi futásfalvi [Adj][semmi]
+BARDOTZ_Lőrintz BARDOTZ_Lőrintz [Prop][nom]
+BARDOTZ_Lőrintz BARDOTZ_Lőrintz [Prop][nom]
+
+
+5: Különösen sok törmeléket halmoztak fel az alföld peremén a jégkorszakok folyamán az Alpokból lenyúló gleccserek , amelyek az Alpok déli lábánál morénaövezetet , alacsony dombságot alakítottak ki . # #
+sok sok [Num][semmi]
+sok sok [Num][semmi]
+alföld alföld [N][gen]
+alföld alföld [N][gen]
+jégkorszakok jégkorszak [N][Pl][hiba]
+jégkorszakok jégkorszak [N][Pl][nulla]
+lenyúló lenyúló [Adj][semmi]
+lenyúló lenyúló [Adj][semmi]
+gleccserek gleccser [N][Pl][nom]
+gleccserek gleccser [N][Pl][nom]
+amelyek amely [N|Pro|Rel][Pl][nom]
+amelyek amely [N|Pro|Rel][Pl][pred]
+Alpok Alpok [N][gen]
+Alpok Alpok [N][gen]
+déli déli [Adj][semmi]
+déli déli [Adj][semmi]
+alacsony alacsony [Adj][semmi]
+alacsony alacsony [Adj][semmi]
+
+ 
+6: Az Egyetlen , akinek joga van elítélni minket , inkább úgy döntött , hogy megbocsát . # #
+Egyetlen egyetlen [Num][nom]
+Egyetlen egyetlen [Num][nom]
+joga jog [N][Poss.3Sg][nom]
+joga jog [N][Poss.3Sg][gen]
+
+ 
+7: Ellátogat ide a katlanba , mint aki otthon van , imaszőnyegének hátára kapja a fellahot és olyan táncot gyújt Váháb-Tenufrisztán talpa alá , hogy egy borzalmas éjszakán SZINBABJE diadaloszlopainak omlására ébred ; berberek kiáltozása NEFÚDD ! # #
+aki aki [N|Pro|Rel][nom]
+aki aki [N|Pro|Rel][nom]
+olyan olyan [Adj|Pro][semmi]
+olyan olyan [Adj|Pro][semmi]
+Váháb-Tenufrisztán Váháb-Tenufrisztán [N][gen]
+Váháb-Tenufrisztán Váháb-Tenufrisztán [N][gen]
+talpa talp [N][Poss.3Sg][semmi]
+talpa talp [N][Poss.3Sg][semmi]
+borzalmas borzalmas [Adj][semmi]
+borzalmas borzalmas [Adj][semmi]
+berberek berber [Adj][Pl][gen]
+berberek berber [Adj][Pl][gen]
+kiáltozása kiáltozás [N][Poss.3Sg][hiba]
+kiáltozása kiáltozás [N][Poss.3Sg][gen]
+NEFÚDD NEFÚDD [N][hiba]
+NEFÚDD NEFÚDD [N][pred]
+
+ 
+8: A másik póluson ott van a jelenleg legnépszerűbb ellenzéki párt . # #
+másik másik [Adj|Pro][semmi]
+másik másik [Adj|Pro][semmi]
+ellenzéki ellenzéki [Adj][semmi]
+ellenzéki ellenzéki [Adj][semmi]
+párt párt [N][nom]
+párt párt [N][nom]
+
+ 
+9: Mama , kérem , mondja meg neki , ne csinálja , hogy olyan feltűnően csenget , mint egy idegen . # #
+Mama mama [N][vok]
+Mama mama [N][nomorpred]
+olyan olyan [Adj|Pro][semmi]
+olyan olyan [Adj|Pro][semmi]
+idegen idegen [Adj][nom]
+idegen idegen [Adj][nom]
+
+ 
+10: OTT A HELYÜK !!! # #
+HELYÜK hely [N][Poss.3Pl][nom]
+HELYÜK hely [N][Poss.3Pl][nomorpred]
+
+ 
+11: Hernádvölgyi_Andrea úgy fogalmazott : szerinte a nehezen átlátható adás-vételi tranzakció feltehetően csak arra volt jó , hogy ne kelljen szóba állni a dolgozókkal . # #
+Hernádvölgyi_Andrea Hernádvölgyi_Andrea [Prop][nom]
+Hernádvölgyi_Andrea Hernádvölgyi_Andrea [Prop][nom]
+átlátható átlátható [Adj][semmi]
+átlátható átlátható [Adj][semmi]
+adás-vételi adás-vételi [Adj][semmi]
+adás-vételi adás-vételi [Adj][semmi]
+tranzakció tranzakció [N][nom]
+tranzakció tranzakció [N][nulla]
+jó jó [Adj][pred]
+jó jó [Adj][nom]
+
+ 
+12: " -Hogyhogy nincs kész a nyaraló ?!.. .. és Dunakeszin is lesz akkor végre ? # #
+kész kész [Adj][pred]
+kész kész [Adj][nom]
+nyaraló nyaraló [N][nom]
+nyaraló nyaraló [N][nulla]
+
+ 
+13: Pl. itt a tasztalon több ezer név van regisztrálva , ki tudná nyilvántartani hogy ezek közül melyikkel magázódik ? # #
+ezer ezer [Num][semmi]
+ezer ezer [Num][semmi]
+név név [N][nom]
+név név [N][nom]
+ezek ez [Det|Pro][Pl][semmi]
+ezek ez [Det|Pro][Pl][semmi]
+
+ 
+14: Csak megbizhatóhoz vigyétek , mert az első szerelőm még állitólag ki is lopott belőle valamit . # #
+szerelőm szerelő [N][Poss.1Sg][nom]
+szerelőm szerelő [N][Poss.1Sg][nulla]
+
+ 
+15: Magabiztos , határozott , kár az ilyen napokat arra pazarolni , hogy csak úgy ücsörög a négy fal között és a házimunkával tölti az idejét . # #
+Magabiztos magabiztos [Adj][pred]
+Magabiztos magabiztos [Adj][nomorpred]
+határozott határozott [Adj][pred]
+határozott határozott [Adj][nomorpred]
+kár kár [N][pred]
+kár kár [N][nomorpred]
+ilyen ilyen [Adj|Pro][semmi]
+ilyen ilyen [Adj|Pro][semmi]
+négy négy [Num][semmi]
+négy négy [Num][semmi]
+fal fal [N][semmi]
+fal fal [N][semmi]
+
+ 
+16: Bocsi ha tudatlan vagyok , de mit takar az , hogy bütykös ? # #
+Bocsi bocsi [Adj][hiba]
+Bocsi bocsi [Adj][semmi]
+tudatlan tudatlan [Adj][pred]
+tudatlan tudatlan [Adj][nomorpred]
+az az [Det|Pro][nom]
+az az [Det|Pro][nom]
+bütykös bütykös [N][nom]
+bütykös bütykös [N][pred]
+
+ 
+17: A név már magában hordozza azt , hogy Symbian okostelefonról van szó . # #
+név név [N][nom]
+név név [N][nulla]
+szó szó [N][nom]
+szó szó [N][nom]
+
+ 
+18: De talán legyen szabad külön kiemelnem , hogy a köztársasági elnök úr külön is kitért arra , hogy úgy érzi , hogy az ENSZ megalakulásával a magyar nép belépett a felnőttkorba . # #
+köztársasági köztársasági [Adj][semmi]
+köztársasági köztársasági [Adj][semmi]
+elnök elnök [N][semmi]
+elnök elnök [N][nulla]
+úr úr [N][nom]
+úr úr [N][nulla]
+ENSZ ENSZ [N][gen]
+ENSZ ENSZ [N][gen]
+magyar magyar [Adj][semmi]
+magyar magyar [Adj][semmi]
+nép nép [N][nom]
+nép nép [N][nom]
+
+ 
+19: Az árvíz- és belvíz védekezés területén ugyanazon fokozatok maradtak , azzal a különbséggel , hogy természetesen a vízszintmagasságokat továbbra is emelni fogják . # #
+belvíz belvíz [N][hiba]
+belvíz belvíz [N][nulla]
+védekezés védekezés [N][gen]
+védekezés védekezés [N][gen]
+fokozatok fokozat [N][Pl][nom]
+fokozatok fokozat [N][Pl][nom]
+
+ 
+20: Ezúttal a baloldali ellenzék él sokszor a tiltakozásnak e módjával . # #
+baloldali baloldali [Adj][semmi]
+baloldali baloldali [Adj][semmi]
+ellenzék ellenzék [N][nom]
+ellenzék ellenzék [N][nom]
+
+ 
+21: Nem véletlenül védi a beállításait az UAC , és jelszóval kell ellátnunk a fiókunkat bekapcsolás előtt . # #
+UAC UAC [N][nom]
+UAC UAC [N][nom]
+bekapcsolás bekapcsolás [N][semmi]
+bekapcsolás bekapcsolás [N][semmi]
+
+ 
+22: Emiatt hónapok óta bizonytalanságban él például a Klubrádió . # #
+hónapok hónap [N][Pl][semmi]
+hónapok hónap [N][Pl][semmi]
+Klubrádió klubrádió [N][nom]
+Klubrádió klubrádió [N][nom]
+
+ 
+23: Radzsabov 2003-ban a linaresi sakktornán , 15 évesen diadalmaskodott - és ezzel a világ legfiatalabb játékosa lett , aki versenyen győzött a ranglistavezető ellen -, ráadásul sötéttel , a francia védelemből induló heves taktikai támadással . # #
+Radzsabov Radzsabov [Prop][nom]
+Radzsabov Radzsabov [Prop][nulla]
+linaresi linaresi [Adj][semmi]
+linaresi linaresi [Adj][semmi]
+15 15 [Num|Digit][semmi]
+15 15 [Num|Digit][semmi]
+világ világ [N][gen]
+világ világ [N][nulla]
+játékosa játékos [N][Poss.3Sg][pred]
+játékosa játékos [N][Poss.3Sg][nom]
+aki aki [N|Pro|Rel][nom]
+aki aki [N|Pro|Rel][nom]
+ranglistavezető ranglistavezető [N][semmi]
+ranglistavezető ranglistavezető [N][semmi]
+francia francia [Adj][semmi]
+francia francia [Adj][semmi]
+induló induló [Adj][semmi]
+induló induló [Adj][semmi]
+heves heves [Adj][semmi]
+heves heves [Adj][semmi]
+taktikai taktikai [Adj][semmi]
+taktikai taktikai [Adj][semmi]
+
+ 
+24: A T-helper sejteket CD4 + T-sejteknek is nevezik , mert a sejtfelszínen CD4 fehérjét expresszálnak . # #
+T-helper T-helper [N][semmi]
+T-helper T-helper [N][nomorpred]
++ None [N][hiba]
++ None [N][nomorpred]
+
+ 
+25: A kormány arra kényszerül , hogy a korábbi költségvetések nagyvonalúsága következtében megörökölt államadósságot , továbbá az államháztartás szerkezeti gondjait cipelje - és szigorú legyen . # #
+kormány kormány [N][nom]
+kormány kormány [N][nomorpred]
+korábbi korábbi [Adj][semmi]
+korábbi korábbi [Adj][semmi]
+költségvetések költségvetés [N][Pl][gen]
+költségvetések költségvetés [N][Pl][gen]
+nagyvonalúsága nagyvonalúság [N][Poss.3Sg][hiba]
+nagyvonalúsága nagyvonalúság [N][Poss.3Sg][nomorpred]
+megörökölt megörökölt [Adj][semmi]
+megörökölt megörökölt [Adj][semmi]
+államháztartás államháztartás [N][gen]
+államháztartás államháztartás [N][gen]
+szerkezeti szerkezeti [Adj][semmi]
+szerkezeti szerkezeti [Adj][semmi]
+szigorú szigorú [Adj][pred]
+szigorú szigorú [Adj][nom]
+
+ 
+26: Alapvető forrásai Kurbély_György veszprémi püspök 1815-ben és 1817-ben , valamint Horváth_János főesperes 1820-ban végzett egyház és iskolalátogatásai során készült jegyzőkönyvek és jelentések . # #
+Alapvető alapvető [Adj][semmi]
+Alapvető alapvető [Adj][semmi]
+forrásai forrás [N][Pl.Poss.3Sg][pred]
+forrásai forrás [N][Pl.Poss.3Sg][nomorpred]
+Kurbély_György Kurbély_György [Prop][semmi]
+Kurbély_György Kurbély_György [Prop][semmi]
+veszprémi veszprémi [Adj][semmi]
+veszprémi veszprémi [Adj][semmi]
+püspök püspök [N][gen]
+püspök püspök [N][nulla]
+Horváth_János Horváth_János [Prop][semmi]
+Horváth_János Horváth_János [Prop][semmi]
+főesperes főesperes [N][gen]
+főesperes főesperes [N][nom]
+egyház egyház [N][hiba]
+egyház egyház [N][gen]
+iskolalátogatásai iskolalátogatás [N][Pl.Poss.3Sg][hiba]
+iskolalátogatásai iskolalátogatás [N][Pl.Poss.3Sg][gen]
+készült készült [Adj][semmi]
+készült készült [Adj][semmi]
+jegyzőkönyvek jegyzőkönyv [N][Pl][nom]
+jegyzőkönyvek jegyzőkönyv [N][Pl][nom]
+jelentések jelentés [N][Pl][nom]
+jelentések jelentés [N][Pl][pred]
+
+ 
+27: Aztán túléltük a sztálinizmust is . # #
+
+ 
+28: Nem kérdezte meg : " Maga tulajdonképpen mit keres itt ? # #
+Maga maga [N|Pro][3Sg][nom]
+Maga maga [N|Pro][3Sg][nulla]
+
+ 
+29: CW : A pénteki programban hét téma szerepel , ebből kettő a bürokrácia és a korrupció . # #
+pénteki pénteki [Adj][semmi]
+pénteki pénteki [Adj][semmi]
+hét hét [Num][semmi]
+hét hét [Num][semmi]
+téma téma [N][nom]
+téma téma [N][nom]
+kettő kettő [Num][nom]
+kettő kettő [Num][pred]
+bürokrácia bürokrácia [N][pred]
+bürokrácia bürokrácia [N][nom]
+korrupció korrupció [N][pred]
+korrupció korrupció [N][nom]
+
+ 
+30: - Itt van , nézze ! - vont a von Thallódy nővére a másik szobába , és a von Thallódy katonaruhás , nagyított fényképére mutatott a falon . # #
+nővére nővér [N][Poss.3Sg][nom]
+nővére nővér [N][Poss.3Sg][nom]
+másik másik [Adj|Pro][semmi]
+másik másik [Adj|Pro][semmi]
+Thallódy Thallódy [Prop][gen]
+Thallódy Thallódy [Prop][gen]
+katonaruhás katonaruhás [N][semmi]
+katonaruhás katonaruhás [N][pred]
+nagyított nagyított [Adj][semmi]
+nagyított nagyított [Adj][semmi]
+
+ 
+31: Szócska_Miklós hangsúlyozta , a válság ellenére emelték a béreket . # #
+Szócska_Miklós Szócska_Miklós [Prop][nom]
+Szócska_Miklós Szócska_Miklós [Prop][nom]
+válság válság [N][hiba]
+válság válság [N][gen]
+
+ 
+32: " El kell érni , hogy a döntéshozóknál az első és a második helyen is Budapest legyen a favorit " - fogalmazta meg a feladatot Szalay-Berzeviczy_Attila , aki szerint előny , hogy Budapest az egyetlen főváros a pályázók közül , könnyen megközelíthető , ráadásul 2011-ben már 20 éve lesz annak , hogy világbajnokságnak adhatott otthont . # #
+Budapest Budapest [Prop][nom]
+Budapest Budapest [Prop][nom]
+favorit favorit [N][pred]
+favorit favorit [N][nom]
+Szalay-Berzeviczy_Attila Szalay-Berzeviczy_Attila [Prop][nom]
+Szalay-Berzeviczy_Attila Szalay-Berzeviczy_Attila [Prop][nom]
+aki aki [N|Pro|Rel][semmi]
+aki aki [N|Pro|Rel][semmi]
+előny előny [N][pred]
+előny előny [N][pred]
+Budapest Budapest [Prop][nom]
+Budapest Budapest [Prop][pred]
+egyetlen egyetlen [Num][semmi]
+egyetlen egyetlen [Num][semmi]
+főváros főváros [N][pred]
+főváros főváros [N][pred]
+pályázók pályázó [N][Pl][semmi]
+pályázók pályázó [N][Pl][semmi]
+megközelíthető megközelíthető [Adj][pred]
+megközelíthető megközelíthető [Adj][nom]
+20 20 [Num|Digit][semmi]
+20 20 [Num|Digit][semmi]
+éve év [N][Poss.3Sg][hiba]
+éve év [N][Poss.3Sg][gen]
+
+ 
+33: És akkor a szép szemeivel rám nézett és még jobb híreket közölt * : -Az egyik tanár nem fog hazamenni , a géppel , mert kiderült hogy jön valamilyen 6.kas csoport akikre ő fog felügyelni , így maradt egy szabad hely a gépen ! # #
+szép szép [Adj][semmi]
+szép szép [Adj][semmi]
+egyik egyik [Adj|Pro][semmi]
+egyik egyik [Adj|Pro][semmi]
+tanár tanár [N][nom]
+tanár tanár [N][nom]
+valamilyen valamilyen [Adj|Pro][semmi]
+valamilyen valamilyen [Adj|Pro][semmi]
+6.kas 6.kas [Adj][semmi]
+6.kas 6.kas [Adj][semmi]
+csoport csoport [N][nom]
+csoport csoport [N][pred]
+ő ő [N|Pro][3Sg][nom]
+ő ő [N|Pro][3Sg][nom]
+szabad szabad [Adj][semmi]
+szabad szabad [Adj][semmi]
+hely hely [N][nom]
+hely hely [N][pred]
+
+ 
+34: Továbbá ha van felesleges ruha , illetve játék , egyéb nem használt dolog , adományként leadható . # #
+felesleges felesleges [Adj][semmi]
+felesleges felesleges [Adj][semmi]
+ruha ruha [N][nom]
+ruha ruha [N][nom]
+játék játék [N][nom]
+játék játék [N][pred]
+egyéb egyéb [N|Pro][semmi]
+egyéb egyéb [N|Pro][pred]
+használt használt [Adj][semmi]
+használt használt [Adj][semmi]
+dolog dolog [N][nom]
+dolog dolog [N][pred]
+leadható leadható [Adj][pred]
+leadható leadható [Adj][nom]
+
+ 
+35: Szeretnék valamit mondani önnek ! - kezdi Suzanne . # #
+Suzanne Suzanne [N][nom]
+Suzanne Suzanne [N][nom]
+
+ 
+36: Ennek az összeférhetetlenségi törvénynek az alapján én is azzal vásároltam meg kritikusi rangjelzésemet , hogy az íróiról le kellett mondanom . # #
+összeférhetetlenségi összeférhetetlenségi [Adj][semmi]
+összeférhetetlenségi összeférhetetlenségi [Adj][semmi]
+én én [N|Pro][1Sg][nom]
+én én [N|Pro][1Sg][nomorpred]
+kritikusi kritikusi [Adj][semmi]
+kritikusi kritikusi [Adj][semmi]
+
+ 
+37: Szegény ő is olyan naívságot képzelt el , mint Te , most meg hol van . # #
+Szegény szegény [Adj][nomorpred]
+Szegény szegény [Adj][nomorpred]
+ő ő [N|Pro][3Sg][nom]
+ő ő [N|Pro][3Sg][nomorpred]
+olyan olyan [Adj|Pro][semmi]
+olyan olyan [Adj|Pro][semmi]
+képzelt képzelt [Adj][hiba]
+képzelt képzelt [Adj][semmiorpred]
+Te te [N|Pro][2Sg][nom]
+Te te [N|Pro][2Sg][nomorpred]
+
+ 
+38: Dollárban a zloty jegyzése 3,2950 az előző esti 3,2930 után . # #
+zloty zloty [N][gen]
+zloty zloty [N][gen]
+jegyzése jegyzés [N][Poss.3Sg][nom]
+jegyzése jegyzés [N][Poss.3Sg][nom]
+3,2950 3,2950 [Num|Digit][pred]
+3,2950 3,2950 [Num|Digit][pred]
+előző előző [Adj][semmi]
+előző előző [Adj][semmi]
+esti esti [Adj][semmi]
+esti esti [Adj][gen]
+3,2930 3,2930 [Num|Digit][semmi]
+3,2930 3,2930 [Num|Digit][semmi]
+
+ 
+39: Ezek az emberek nálunk átlagosan csaknem 10 évvel tovább élhetnének , ha nem sújtaná őket a részecske-szennyezés . # #
+Ezek ez [Det|Pro][Pl][nulla]
+Ezek ez [Det|Pro][Pl][nomorpred]
+emberek ember [N][Pl][nom]
+emberek ember [N][Pl][nomorpred]
+10 10 [Num|Digit][semmi]
+10 10 [Num|Digit][semmi]
+részecske-szennyezés részecske-szennyezés [N][nom]
+részecske-szennyezés részecske-szennyezés [N][nom]
+
+ 
+40: Miként találkozik a gyermek a külvilággal ? # #
+gyermek gyermek [N][nom]
+gyermek gyermek [N][nom]
+
+ 
+41: Természetesen nem kell minden alkalommal engedni a hisztijének , de ha van rá mód , keressenek kompromisszumos megoldásokat , amelyek kisfiának és önnek is egyaránt elfogadhatók . # #
+minden minden [N|Pro][hiba]
+minden minden [N|Pro][nom]
+mód mód [N][nom]
+mód mód [N][pred]
+kompromisszumos kompromisszumos [Adj][semmi]
+kompromisszumos kompromisszumos [Adj][semmi]
+amelyek amely [N|Pro|Rel][Pl][nom]
+amelyek amely [N|Pro|Rel][Pl][nom]
+elfogadhatók elfogadható [Adj][Pl][pred]
+elfogadhatók elfogadható [Adj][Pl][pred]
+
+ 
+42: Nevezetesen : rohanjunk , nehogy lemaradjunk rola . # #
+rola rola [N][hiba]
+rola rola [N][nom]
+
+ 
+43: Különösen kedvezményes időszakok a szezon eleji ( november vége , december eleje ) és szezon végi ( április közepétől a szezon végéig ) , ilyenkor a liftárakból olykor 40 százalékot is elengednek . # #
+kedvezményes kedvezményes [Adj][semmi]
+kedvezményes kedvezményes [Adj][semmi]
+időszakok időszak [N][Pl][nom]
+időszakok időszak [N][Pl][nomorpred]
+szezon szezon [N][semmi]
+szezon szezon [N][semmi]
+eleji eleji [Adj][nom]
+eleji eleji [Adj][nomorpred]
+november november [N][gen]
+november november [N][gen]
+vége vég [N][Poss.3Sg][nomorpred]
+vége vég [N][Poss.3Sg][nomorpred]
+december december [N][gen]
+december december [N][gen]
+eleje eleje [N][Poss.3Sg][nomorpred]
+eleje eleje [N][Poss.3Sg][nomorpred]
+szezon szezon [N][semmi]
+szezon szezon [N][semmi]
+végi végi [Adj][nom]
+végi végi [Adj][nomorpred]
+április április [N][gen]
+április április [N][gen]
+szezon szezon [N][gen]
+szezon szezon [N][gen]
+40 40 [Num|Digit][semmi]
+40 40 [Num|Digit][semmi]
+
+ 
+44: A budapesti Operaházban és a Nemzeti Színházban textiltervező és festő . # #
+budapesti budapesti [Adj][semmi]
+budapesti budapesti [Adj][semmi]
+Nemzeti nemzeti [Adj][semmi]
+Nemzeti nemzeti [Adj][semmi]
+textiltervező textiltervező [Adj][pred]
+textiltervező textiltervező [Adj][nomorpred]
+festő festő [N][pred]
+festő festő [N][nomorpred]
+ 
+ 
+45: Pécs főjegyzője vizsgálatot indított az ügyben . # #
+Pécs Pécs [N][gen]
+Pécs Pécs [N][gen]
+főjegyzője főjegyző [N][Poss.3Sg][nom]
+főjegyzője főjegyző [N][Poss.3Sg][nom]
+
+ 
+46: Szépüljünk éjszaka ! államtitkár urat illeti a szó . # #
+államtitkár államtitkár [N][semmi]
+államtitkár államtitkár [N][nom]
+szó szó [N][nom]
+szó szó [N][nom]
+
+ 
+47: Főoltárán a Mária mennybevitele festmény látható , felette a templom védőszentje , Szent György lovas szobrával . # #
+Mária Mária [N][gen]
+Mária Mária [N][gen]
+mennybevitele mennybevitel [N][Poss.3Sg][semmi]
+mennybevitele mennybevitel [N][Poss.3Sg][nomorpred]
+festmény festmény [N][nom]
+festmény festmény [N][nom]
+látható látható [Adj][pred]
+látható látható [Adj][pred]
+felette felette [N][hiba]
+felette felette [N][pred]
+templom templom [N][gen]
+templom templom [N][gen]
+védőszentje védőszent [N][Poss.3Sg][nom]
+védőszentje védőszent [N][Poss.3Sg][pred]
+György György [N][hiba]
+György György [N][gen]
+lovas lovas [Adj][semmi]
+lovas lovas [Adj][semmiorpred]
+
+ 
+48: A demokrácia velejárója , hogy ha van sok-sok pénzed , akkor meg tudsz fizetni egy jó ügyvédet , ha pedig van egy jó ügyvéded , akkor ki tudsz mászni minden trutyiból , akármilyen mélyen is állsz benne . # #
+demokrácia demokrácia [N][gen]
+demokrácia demokrácia [N][gen]
+velejárója velejáró [N][Poss.3Sg][pred]
+velejárója velejáró [N][Poss.3Sg][nomorpred]
+sok-sok sok-sok [Num][semmi]
+sok-sok sok-sok [Num][semmi]
+pénzed pénz [N][Poss.2Sg][nom]
+pénzed pénz [N][Poss.2Sg][nom]
+jó jó [Adj][semmi]
+jó jó [Adj][semmi]
+jó jó [Adj][semmi]
+jó jó [Adj][semmi]
+ügyvéded ügyvéd [N][Poss.2Sg][nom]
+ügyvéded ügyvéd [N][Poss.2Sg][pred]
+minden minden [N|Pro][hiba]
+minden minden [N|Pro][gen]
+akármilyen akármilyen [Adj|Pro][semmi]
+akármilyen akármilyen [Adj|Pro][semmi]
+
+ 
+49: Most ő modern ember , vagy nem modern ember ? # #
+ő ő [N|Pro][3Sg][nom]
+ő ő [N|Pro][3Sg][nulla]
+modern modern [Adj][semmi]
+modern modern [Adj][semmiorpred]
+ember ember [N][pred]
+ember ember [N][nomorpred]
+modern modern [Adj][semmi]
+modern modern [Adj][semmiorpred]
+ember ember [N][pred]
+ember ember [N][nomorpred]
+
+ 
+50: A Szász Hercegség felosztásakor 1296-ban az egyik létrejött nagy hercegi uradalom az Elba két partján elhelyezkedő , töredezett hercegség , a Szász-Lauenburgi Hercegség volt , mely meg tudta őrizni függetlenségét a holsteini és schwerini uralkodók hatalmi törekvéseivel szemben . # #
+Szász Szász [N][hiba]
+Szász Szász [N][nulla]
+Hercegség hercegség [N][gen]
+Hercegség hercegség [N][gen]
+egyik egyik [Adj|Pro][semmi]
+egyik egyik [Adj|Pro][semmi]
+létrejött létrejött [Adj][semmi]
+létrejött létrejött [Adj][semmi]
+nagy nagy [Adj][semmi]
+nagy nagy [Adj][semmi]
+hercegi hercegi [Adj][semmi]
+hercegi hercegi [Adj][semmi]
+uradalom uradalom [N][nom]
+uradalom uradalom [N][nomorpred]
+Elba Elba [N][gen]
+Elba Elba [N][gen]
+két két [Num|Attr][semmi]
+két két [Num|Attr][semmi]
+elhelyezkedő elhelyezkedő [Adj][semmi]
+elhelyezkedő elhelyezkedő [Adj][nomorpred]
+töredezett töredezett [Adj][semmi]
+töredezett töredezett [Adj][semmiorpred]
+hercegség hercegség [N][pred]
+hercegség hercegség [N][nomorpred]
+Szász-Lauenburgi Szász-Lauenburgi [Adj][semmi]
+Szász-Lauenburgi Szász-Lauenburgi [Adj][semmi]
+Hercegség hercegség [N][pred]
+Hercegség hercegség [N][nom]
+holsteini holsteini [Adj][semmi]
+holsteini holsteini [Adj][semmi]
+schwerini schwerini [Adj][semmi]
+schwerini schwerini [Adj][semmi]
+uralkodók uralkodó [N][Pl][gen]
+uralkodók uralkodó [N][Pl][gen]
+hatalmi hatalmi [Adj][semmi]
+hatalmi hatalmi [Adj][semmi]
+
+ 
+51: Döntő ellenérvük az , hogy a tervezet tudatosan alábecsüli az inflációt , erre alapozva a bérek és a nyugdíjak reálértékének növekedését ígéri , de Burány szerint ez félrevezető és tarthatatlan . # #
+Döntő döntő [Adj][semmi]
+Döntő döntő [Adj][semmi]
+ellenérvük ellenérv [N][Poss.3Pl][nom]
+ellenérvük ellenérv [N][Poss.3Pl][nomorpred]
+az az [Det|Pro][pred]
+az az [Det|Pro][nomorpred]
+tervezet tervezet [N][nom]
+tervezet tervezet [N][nom]
+bérek bér [N][Pl][gen]
+bérek bér [N][Pl][gen]
+nyugdíjak nyugdíj [N][Pl][gen]
+nyugdíjak nyugdíj [N][Pl][gen]
+Burány Burány [N][semmi]
+Burány Burány [N][semmi]
+ez ez [Det|Pro][nom]
+ez ez [Det|Pro][nom]
+félrevezető félrevezető [Adj][pred]
+félrevezető félrevezető [Adj][nom]
+tarthatatlan tarthatatlan [Adj][pred]
+tarthatatlan tarthatatlan [Adj][nom]
+
+ 
+52: A díjnyertes cikket itt olvashatja . # #
+díjnyertes díjnyertes [Adj][semmi]
+díjnyertes díjnyertes [Adj][semmi]
+
+ 
+53: A jelen előzetes döntéshozatali eljárás azonban nem érinti ezeket az eseteket . # #
+előzetes előzetes [Adj|Attr][semmi]
+előzetes előzetes [Adj|Attr][semmi]
+döntéshozatali döntéshozatali [Adj][semmi]
+döntéshozatali döntéshozatali [Adj][semmi]
+eljárás eljárás [N][nom]
+eljárás eljárás [N][nomorpred]
+
+ 
+54: Nem a saját személyes jobb létem miatt , hanem azért , mert a Szomszédokat sokan kedvelték . # #
+saját saját [Adj][semmi]
+saját saját [Adj][semmi]
+személyes személyes [Adj][semmi]
+személyes személyes [Adj][semmi]
+jobb jobb [Adj][semmi]
+jobb jobb [Adj][semmi]
+létem lét [N][Poss.1Sg][semmi]
+létem lét [N][Poss.1Sg][semmi]
+
+ 
+55: A bűnös a tiramin nevű vegyület , ami a tirozin aminosavból származik , és hirtelen nagy mennyiség bevitele esetén nagyon enyhe mérgezést válthat ki . # #
+bűnös bűnös [Adj][pred]
+bűnös bűnös [Adj][nom]
+tiramin tiramin [N][semmi]
+tiramin tiramin [N][semmi]
+vegyület vegyület [N][nom]
+vegyület vegyület [N][pred]
+ami ami [N|Pro|Rel][nom]
+ami ami [N|Pro|Rel][nomorpred]
+tirozin tirozin [N][semmi]
+tirozin tirozin [N][gen]
+nagy nagy [Adj][semmi]
+nagy nagy [Adj][semmi]
+mennyiség mennyiség [N][gen]
+mennyiség mennyiség [N][gen]
+bevitele bevitel [N][Poss.3Sg][gen]
+bevitele bevitel [N][Poss.3Sg][gen]
+enyhe enyhe [Adj][semmi]
+enyhe enyhe [Adj][semmi]
+
+ 
+56: A határozatban résztvevők a fentiek haladéktalan megtételére szólítják fel minden Magyar Testvérüket . # #
+résztvevők résztvevő [N][Pl][nom]
+résztvevők résztvevő [N][Pl][nomorpred]
+fentiek fenti [Adj][Pl][gen]
+fentiek fenti [Adj][Pl][gen]
+haladéktalan haladéktalan [Adj][semmi]
+haladéktalan haladéktalan [Adj][semmi]
+minden minden [N|Pro][hiba]
+minden minden [N|Pro][nulla]
+Magyar Magyar [N][hiba]
+Magyar Magyar [N][nom]
+
+ 
+57: Az onnan kikerült édességeket visszahívta a kanadai gyártó . # #
+kikerült kikerült [Adj][semmi]
+kikerült kikerült [Adj][semmi]
+kanadai kanadai [Adj][semmi]
+kanadai kanadai [Adj][semmi]
+gyártó gyártó [N][nom]
+gyártó gyártó [N][nom]
+
+ 
+58: Diadalérzésem azonban mégsem lehet zavartalan , sőt , mintha lelkem mélyén valamiféle szégyenkezés öröme keserítené a siker kifelé mutogatott peckes örömét . # #
+Diadalérzésem diadalérzés [N][Poss.1Sg][nom]
+Diadalérzésem diadalérzés [N][Poss.1Sg][nomorpred]
+zavartalan zavartalan [Adj][pred]
+zavartalan zavartalan [Adj][nomorpred]
+lelkem lélek [N][Poss.1Sg][gen]
+lelkem lélek [N][Poss.1Sg][gen]
+valamiféle valamiféle [Adj|Pro][semmi]
+valamiféle valamiféle [Adj|Pro][semmi]
+szégyenkezés szégyenkezés [N][gen]
+szégyenkezés szégyenkezés [N][gen]
+öröme öröm [N][Poss.3Sg][nom]
+öröme öröm [N][Poss.3Sg][nom]
+siker siker [N][gen]
+siker siker [N][gen]
+peckes peckes [Adj][semmi]
+peckes peckes [Adj][semmi]
+
+ 
+59: A válasz Finiék a pártból , illetve a frakcióból történt kilépése volt . # #
+válasz válasz [N][pred]
+válasz válasz [N][nomorpred]
+Finiék Fini [N][Fam.Pl][gen]
+Finiék Fini [N][Fam.Pl][nomorpred]
+történt történt [Adj][semmi]
+történt történt [Adj][semmi]
+kilépése kilépés [N][Poss.3Sg][nom]
+kilépése kilépés [N][Poss.3Sg][nom]
+
+ 
+60: Hát édesapám hiába vigyorog , én azért egy kicsit megijedtem . igen ismerjük a BKK stílusát , és a kedves utasok viselkedése ? azt nem ismerjük , elég arrogánsak , de mi mások is lehetnének , hisz bliccelnek , ami nem egyre sűrűbben már a bűncselekmény határát átlépi !! # #
+édesapám édesapa [N][Poss.1Sg][nom]
+édesapám édesapa [N][Poss.1Sg][nom]
+én én [N|Pro][1Sg][nom]
+én én [N|Pro][1Sg][pred]
+BKK BKK [N][gen]
+BKK BKK [N][gen]
+kedves kedves [Adj][semmi]
+kedves kedves [Adj][semmi]
+utasok utas [N][Pl][gen]
+utasok utas [N][Pl][gen]
+viselkedése viselkedés [N][Poss.3Sg][nomorpred]
+viselkedése viselkedés [N][Poss.3Sg][pred]
+arrogánsak arrogáns [Adj][Pl][pred]
+arrogánsak arrogáns [Adj][Pl][pred]
+mi mi [N|Pro|Int][hiba]
+mi mi [N|Pro|Int][pred]
+mások más [N|Pro][Pl][pred]
+mások más [N|Pro][Pl][pred]
+ami ami [N|Pro|Rel][nom]
+ami ami [N|Pro|Rel][nom]
+bűncselekmény bűncselekmény [N][gen]
+bűncselekmény bűncselekmény [N][gen]
+
+ 
+61: Egész éjjel nyitva tart a koktél-bár a medencetérben . # #
+koktél-bár koktél-bár [N][nom]
+koktél-bár koktél-bár [N][nom]
+
+ 
+62: Egy újabb , 2001-es átszerveződés után a kutatás , valamint a képzési termékek megjelölésére a kinaesthetics kifejezést kezdték használni . # #
+2001-es 2001-es [Adj][semmi]
+2001-es 2001-es [Adj][semmi]
+átszerveződés átszerveződés [N][semmi]
+átszerveződés átszerveződés [N][semmi]
+kutatás kutatás [N][gen]
+kutatás kutatás [N][nomorpred]
+képzési képzési [Adj][semmi]
+képzési képzési [Adj][semmi]
+termékek termék [N][Pl][gen]
+termékek termék [N][Pl][gen]
+kinaesthetics kinaesthetics [N][semmi]
+kinaesthetics kinaesthetics [N][nom]
+
+ 
+63: Ugyancsak ebben a levelében írta , hogy " Azt hiszem , a következő generációban a világ vezetői fel fogják ismerni , hogy a csecsemőkori kondicionálás és a narkohipnózis sokkal hatékonyabb eszközei a kormányzásnak , mint a különféle társaságok és börtönök és hogy a hatalom iránti vágyuk ugyanúgy teljesen kielégíthető , ha az emberekbe beleszuggerálják rabszolgaságuk szeretetét , mintha erőszakos eszközökkel kényszerítenék őket engedelmességre " . # #
+következő következő [Adj][semmi]
+következő következő [Adj][semmi]
+világ világ [N][gen]
+világ világ [N][gen]
+vezetői vezető [N][Pl.Poss.3Sg][nom]
+vezetői vezető [N][Pl.Poss.3Sg][nom]
+csecsemőkori csecsemőkori [Adj][semmi]
+csecsemőkori csecsemőkori [Adj][semmi]
+kondicionálás kondicionálás [N][nom]
+kondicionálás kondicionálás [N][nom]
+narkohipnózis narkohipnózis [N][nom]
+narkohipnózis narkohipnózis [N][nulla]
+eszközei eszköz [N][Pl.Poss.3Sg][pred]
+eszközei eszköz [N][Pl.Poss.3Sg][pred]
+különféle különféle [Adj][semmi]
+különféle különféle [Adj][semmi]
+társaságok társaság [N][Pl][nulla]
+társaságok társaság [N][Pl][gen]
+börtönök börtön [N][Pl][nomorpred]
+börtönök börtön [N][Pl][nom]
+hatalom hatalom [N][semmi]
+hatalom hatalom [N][semmi]
+iránti iránti [Adj][semmi]
+iránti iránti [Adj][semmi]
+vágyuk vágy [N][Poss.3Pl][nom]
+vágyuk vágy [N][Poss.3Pl][pred]
+kielégíthető kielégíthető [Adj][pred]
+kielégíthető kielégíthető [Adj][nom]
+rabszolgaságuk rabszolgaság [N][Poss.3Pl][gen]
+rabszolgaságuk rabszolgaság [N][Poss.3Pl][gen]
+erőszakos erőszakos [Adj][semmi]
+erőszakos erőszakos [Adj][semmi]
+
+ 
+64: Ott álltam , nem bírtam a szemem levenni róla , ráláttam a húst , a lélegzetet , ami ráfagyott a szájra . # #
+szemem szem [N][Poss.1Sg][hiba]
+szemem szem [N][Poss.1Sg][nom]
+ami ami [N|Pro|Rel][nom]
+ami ami [N|Pro|Rel][nom]
+
+ 
+65: Minden terméketlennek és nem kívánatosnak tűnik és semmi sem elégíti ki a lendületbe jött és törekvő lelket . # #
+Minden minden [N|Pro][nom]
+Minden minden [N|Pro][nulla]
+semmi semmi [N|Pro][nom]
+semmi semmi [N|Pro][nom]
+törekvő törekvő [Adj][semmi]
+törekvő törekvő [Adj][semmi]
+
+ 
+66: Rubint adott jó labdát Foxinak , aki megiramodott a jobb oldalon , majd az alapvonal közeléből középre adott , de Balogh kivetődve öklözte a mezőnybe a labdát a berobbanó támadók elől . # #
+Rubint rubint [N][nom]
+Rubint rubint [N][nom]
+jó jó [Adj][semmi]
+jó jó [Adj][semmi]
+aki aki [N|Pro|Rel][nom]
+aki aki [N|Pro|Rel][nom]
+jobb jobb [Adj][semmi]
+jobb jobb [Adj][semmi]
+alapvonal alapvonal [N][gen]
+alapvonal alapvonal [N][gen]
+Balogh Balogh [N][nom]
+Balogh Balogh [N][nulla]
+berobbanó berobbanó [Adj][semmi]
+berobbanó berobbanó [Adj][semmi]
+támadók támadó [N][Pl][semmi]
+támadók támadó [N][Pl][semmi]
+
+ 
+67: Támadás , húgyszagúan is megidvezülök , és leszesz részem az örökkönörökké megvilágosság . # #
+Támadás támadás [N][nomorpred]
+Támadás támadás [N][nomorpred]
+részem rész [N][Poss.1Sg][pred]
+részem rész [N][Poss.1Sg][nom]
+megvilágosság megvilágosság [N][nom]
+megvilágosság megvilágosság [N][pred]
+
+ 
+68: Mégis olyan körmönfontnak tűnt fel az egész . # #
+olyan olyan [Adj|Pro][semmi]
+olyan olyan [Adj|Pro][semmi]
+egész egész [Adj][nom]
+egész egész [Adj][nom]
+
+ 
+69: A 2000Ft filmmegnézést tévén dugják fel maguknak !!! # #
+2000Ft 2000Ft [N][semmi]
+2000Ft 2000Ft [N][nom]
+
+ 
+70: Sebességmérés nem kell . # #
+Sebességmérés sebességmérés [N][nom]
+Sebességmérés sebességmérés [N][nomorpred]
+
+ 
+71: Az ajánlati árfolyam megegyezik a részvények névértékével , ami a törzsrészvények és az A sorozatú osztalékelsőbbségi részvények esetében 1700 forint , a B sorozatú osztalékelsőbbségi részvényekre 16_300 forint . # #
+ajánlati ajánlati [Adj][semmi]
+ajánlati ajánlati [Adj][semmi]
+árfolyam árfolyam [N][nom]
+árfolyam árfolyam [N][nom]
+részvények részvény [N][Pl][gen]
+részvények részvény [N][Pl][gen]
+ami ami [N|Pro|Rel][nom]
+ami ami [N|Pro|Rel][nom]
+törzsrészvények törzsrészvény [N][Pl][gen]
+törzsrészvények törzsrészvény [N][Pl][gen]
+osztalékelsőbbségi osztalékelsőbbségi [Adj][semmi]
+osztalékelsőbbségi osztalékelsőbbségi [Adj][semmi]
+részvények részvény [N][Pl][gen]
+részvények részvény [N][Pl][gen]
+1700 1700 [Num|Digit][semmi]
+1700 1700 [Num|Digit][semmi]
+forint forint [N][pred]
+forint forint [N][pred]
+B B [N][semmi]
+B B [N][nulla]
+osztalékelsőbbségi osztalékelsőbbségi [Adj][semmi]
+osztalékelsőbbségi osztalékelsőbbségi [Adj][semmi]
+16_300 16_300 [Num|Digit][semmi]
+16_300 16_300 [Num|Digit][semmi]
+forint forint [N][pred]
+forint forint [N][pred]
+
+ 
+72: Úgy gondoltam , jobb lesz , ha nem vétetem észre véle , hogy még én sem tudom az utazásom célpontját . # #
+én én [N|Pro][1Sg][nom]
+én én [N|Pro][1Sg][nom]
+utazásom utazás [N][Poss.1Sg][gen]
+utazásom utazás [N][Poss.1Sg][gen]
+
+ 
+73: Ilyenkor érdemes kapcsolatainkat is építeni a családdal , barátokkal , mivel ők is sokkal érzékenyebbek , és az ő lelküknek is kell a kényeztetés . # #
+érdemes érdemes [Adj][pred]
+érdemes érdemes [Adj][semmi]
+ők ők [N|Pro][3Pl][nom]
+ők ők [N|Pro][3Pl][nom]
+ő ő [N|Pro][3Sg][gen]
+ő ő [N|Pro][3Sg][nom]
+kényeztetés kényeztetés [N][nom]
+kényeztetés kényeztetés [N][nom]
+
+ 
+74: Megbabonáz bárkit . # #
+
+ 
+75: A Fideszt is volt már minden , Gyurcsány_Ferenc elmondott minket fasisztának és szélsőségesnek . # #
+minden minden [N|Pro][pred]
+minden minden [N|Pro][nomorpred]
+Gyurcsány_Ferenc Gyurcsány_Ferenc [N][nom]
+Gyurcsány_Ferenc Gyurcsány_Ferenc [N][nom]
+
+
+ 
+76: A folyamatos csapadék miatt várhatóan kedvezőtlen irányba kell módosítani az előrejelzéseket , a legmagasabb vízszintet minden felső-dunai szakaszon eléri a víz . # #
+folyamatos folyamatos [Adj][semmi]
+folyamatos folyamatos [Adj][semmi]
+csapadék csapadék [N][semmi]
+csapadék csapadék [N][semmi]
+kedvezőtlen kedvezőtlen [Adj][semmi]
+kedvezőtlen kedvezőtlen [Adj][semmi]
+minden minden [N|Pro][hiba]
+minden minden [N|Pro][nulla]
+felső-dunai felső-dunai [Adj][semmi]
+felső-dunai felső-dunai [Adj][semmi]
+víz víz [N][nom]
+víz víz [N][nom]
+
+ 
+77: Egy év alatt közel húsz százalékkal nőtt a tűzoltók beavatkozásainak száma Komárom-Esztergom megyében , ezen belül a műszaki mentések száma közel felével emelkedett és minden tizedik vonulás vaklárma volt - mondta szerdai évértékelőjén a Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság vezetője . # #
+Egy egy [Num][semmi]
+Egy egy [Num][semmi]
+év év [N][semmi]
+év év [N][semmi]
+húsz húsz [Num][semmi]
+húsz húsz [Num][semmi]
+tűzoltók tűzoltó [N][Pl][gen]
+tűzoltók tűzoltó [N][Pl][gen]
+száma szám [N][Poss.3Sg][nom]
+száma szám [N][Poss.3Sg][nomorpred]
+Komárom-Esztergom Komár-Esztergom<incorrect_word> [N][hiba]
+Komárom-Esztergom Komár-Esztergom<incorrect_word> [N][nomorpred]
+műszaki műszaki [Adj][semmi]
+műszaki műszaki [Adj][semmi]
+mentések mentés [N][Pl][gen]
+mentések mentés [N][Pl][gen]
+száma szám [N][Poss.3Sg][nom]
+száma szám [N][Poss.3Sg][nomorpred]
+minden minden [N|Pro][hiba]
+minden minden [N|Pro][nulla]
+vonulás vonulás [N][nom]
+vonulás vonulás [N][nom]
+vaklárma vaklárma [N][pred]
+vaklárma vaklárma [N][nom]
+szerdai szerdai [Adj][semmi]
+szerdai szerdai [Adj][semmi]
+Komárom-Esztergom Komár-Esztergom<incorrect_word> [N][hiba]
+Komárom-Esztergom Komár-Esztergom<incorrect_word> [N][gen]
+Megyei Megy [N][Pl.Poss.3Sg][hiba]
+Megyei Megy [N][Pl.Poss.3Sg][nulla]
+Katasztrófavédelmi katasztrófavédelmi [Adj][semmi]
+Katasztrófavédelmi katasztrófavédelmi [Adj][semmi]
+Igazgatóság igazgatóság [N][gen]
+Igazgatóság igazgatóság [N][gen]
+vezetője vezető [N][Poss.3Sg][nom]
+vezetője vezető [N][Poss.3Sg][pred]
+
+ 
+78: Fát adtam a férjemnek születésnapjára . # #
+
+ 
+79: Ha valaki ez ügyben böngészik a világhálón , akkor számtalan receptet találhat . # #
+valaki valaki [N|Pro][nom]
+valaki valaki [N|Pro][nomorpred]
+ez ez [Det|Pro][semmi]
+ez ez [Det|Pro][nom]
+számtalan számtalan [Num][semmi]
+számtalan számtalan [Num][semmi]
+
+ 
+80: Wells nem sokkal később elveszítette az állását a vadasparkban egy csaló majomidomár miatt . # #
+Wells Wells [N][nom]
+Wells Wells [N][nomorpred]
+csaló csaló [N][hiba]
+csaló csaló [N][nulla]
+majomidomár majomidomár [N][semmi]
+majomidomár majomidomár [N][semmi]
+
+ 
+81: Röhögnöm kell .. # #
+
+ 
+82: Nézd , milyen csöndesek a habok . # #
+milyen milyen [Adj|Pro|Int][semmi]
+milyen milyen [Adj|Pro|Int][semmi]
+csöndesek csöndes [Adj][Pl][pred]
+csöndesek csöndes [Adj][Pl][nom]
+habok hab [N][Pl][nom]
+habok hab [N][Pl][nom]
+
+ 
+83: Az 50-es években jelentkezett Jackson_Pollockkal az élén egy amerikai festőnemzedék , amely lemondott az ábrázolásról , áttételek nélkül vitte vászonra belső impulzusait , energiáit . # #
+50-es 50-es [Adj][semmi]
+50-es 50-es [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+festőnemzedék festőnemzedék [N][nom]
+festőnemzedék festőnemzedék [N][nom]
+amely amely [N|Pro|Rel][nom]
+amely amely [N|Pro|Rel][nom]
+áttételek áttétel [N][Pl][semmi]
+áttételek áttétel [N][Pl][semmi]
+belső belső [Adj][semmi]
+belső belső [Adj][semmi]
+
+ 
+84: További segítséghez , kérjük , küldd el privát üzenetben az érintett telefonszámodat , illetve telefonos elérhetőségedet . # #
+További további [Adj][semmi]
+További további [Adj][semmiorpred]
+privát privát [Adj][semmi]
+privát privát [Adj][semmi]
+érintett érintett [Adj][semmi]
+érintett érintett [Adj][semmi]
+telefonos telefonos [Adj][semmi]
+telefonos telefonos [Adj][semmi]
+
+ 
+85: Mégis ha valaki egy érett felnőtt kutyát is szívesen magához venne , érdemes utánanézni ezeknek a hirdetéseknek . # #
+valaki valaki [N|Pro][nom]
+valaki valaki [N|Pro][nulla]
+érett érett [Adj][semmi]
+érett érett [Adj][semmi]
+felnőtt felnőtt [N][hiba]
+felnőtt felnőtt [N][nulla]
+érdemes érdemes [Adj][pred]
+érdemes érdemes [Adj][nom]
+
+ 
+86: Most csak nézegessem az új lakótársat . # #
+új új [Adj][semmi]
+új új [Adj][semmi]
+
+ 
+87: Joggal tartozhatnak legmeghatóbb olvasmányemlékeink közé az ősi szótárkísérletek , mondjuk egy asszír-sumér szótártöredék , még akkor is , ha egyik nyelvet sem értjük . # #
+olvasmányemlékeink olvasmányemlék [N][Pl.Poss.1Pl][semmi]
+olvasmányemlékeink olvasmányemlék [N][Pl.Poss.1Pl][semmi]
+ősi ősi [Adj][semmi]
+ősi ősi [Adj][semmi]
+szótárkísérletek szótárkísérlet [N][Pl][nom]
+szótárkísérletek szótárkísérlet [N][Pl][nom]
+asszír-sumér asszír-sumér [Adj][semmi]
+asszír-sumér asszír-sumér [Adj][semmi]
+szótártöredék szótártöredék [N][nom]
+szótártöredék szótártöredék [N][pred]
+egyik egyik [Adj|Pro][semmi]
+egyik egyik [Adj|Pro][semmi]
+
+ 
+88: Az országban csaknem tizenegyezer műemlék van , Szabolcs-Szatmár-Bereg megyében háromszázhatvanhét a számuk . # #
+tizenegyezer tizenegyezer [Num][semmi]
+tizenegyezer tizenegyezer [Num][semmi]
+műemlék műemlék [N][nom]
+műemlék műemlék [N][nom]
+Szabolcs-Szatmár-Bereg Szabolcs-Szatmár-Bereg [N][semmi]
+Szabolcs-Szatmár-Bereg Szabolcs-Szatmár-Bereg [N][nulla]
+háromszázhatvanhét háromszázhatvanhét [Num][pred]
+háromszázhatvanhét háromszázhatvanhét [Num][pred]
+számuk szám [N][Poss.3Pl][nom]
+számuk szám [N][Poss.3Pl][nom]
+
+ 
+89: Ezeket a veszteségeket az első pár napban szenvedte el az IDF , mikor az egyiptomi csapatok átkeltek a szuezi csatornán . # #
+pár pár [Num][semmi]
+pár pár [Num][semmi]
+IDF IDF [N][nom]
+IDF IDF [N][nom]
+egyiptomi egyiptomi [Adj][semmi]
+egyiptomi egyiptomi [Adj][semmi]
+csapatok csapat [N][Pl][nom]
+csapatok csapat [N][Pl][pred]
+szuezi szuezi [Adj][semmi]
+szuezi szuezi [Adj][semmi]
+
+ 
+90: Csiang beleegyezett , hogy amerikai részről ellenőrizzék a Kínának eladott amerikai szuperszámítógépek felhasználását . # #
+Csiang Csiang [N][nom]
+Csiang Csiang [N][nom]
+amerikai amerikai [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+eladott eladott [Adj][semmi]
+eladott eladott [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+szuperszámítógépek szuperszámítógép [N][Pl][gen]
+szuperszámítógépek szuperszámítógép [N][Pl][gen]
+
+ 
+91: Az egyik asztalnál egy hazafelé készülő magyar delegáció a hároméves valutakeretnek megfelelő ebédet evett . # #
+egyik egyik [Adj|Pro][semmi]
+egyik egyik [Adj|Pro][semmi]
+készülő készülő [Adj][semmi]
+készülő készülő [Adj][semmi]
+magyar magyar [Adj][semmi]
+magyar magyar [Adj][semmi]
+delegáció delegáció [N][nom]
+delegáció delegáció [N][nomorpred]
+hároméves hároméves [Adj][semmi]
+hároméves hároméves [Adj][semmi]
+megfelelő megfelelő [Adj][semmi]
+megfelelő megfelelő [Adj][semmi]
+
+ 
+92: Ti többiek se csüggedjetek : jövőre is lesznek versenyek , nektek pedig nem kell egyebet tennetek , " csupán " aktívan bekapcsolódni a Nagyszünet szerkesztésébe . # #
+Ti ti [N|Pro][2Pl][nom]
+Ti ti [N|Pro][2Pl][nomorpred]
+többiek többi [Adj|Pro][Pl][nom]
+többiek többi [Adj|Pro][Pl][nom]
+versenyek verseny [N][Pl][nom]
+versenyek verseny [N][Pl][pred]
+Nagyszünet nagyszünet [N][gen]
+Nagyszünet nagyszünet [N][gen]
+
+ 
+93: Ha a kincstár talál olyan ingatlant , amelyet a párt nem jelentett be augusztus_23-áig , azt szintén vissza kell adni , ráadásul az adott pártra jutó ötezer négyzetméternyi területet csökkentik a szóban forgó ingatlan területével . # #
+kincstár kincstár [N][nom]
+kincstár kincstár [N][nom]
+olyan olyan [Adj|Pro][semmi]
+olyan olyan [Adj|Pro][semmi]
+párt párt [N][nom]
+párt párt [N][nom]
+adott adott [Adj][semmi]
+adott adott [Adj][semmi]
+jutó jutó [Adj][semmi]
+jutó jutó [Adj][gen]
+ötezer ötezer [Num][semmi]
+ötezer ötezer [Num][semmi]
+négyzetméternyi négyzetméternyi [Adj][semmi]
+négyzetméternyi négyzetméternyi [Adj][semmi]
+forgó forgó [Adj][semmi]
+forgó forgó [Adj][semmi]
+ingatlan ingatlan [N][gen]
+ingatlan ingatlan [N][gen]
+
+ 
+94: Sokak szerint az iPhone-ban lévő Safari böngésző szinte tökéletes , de azért akadnak benne javítanivalók . # #
+Sokak sok [Num][Pl][semmi]
+Sokak sok [Num][Pl][semmi]
+lévő lévő [Adj][semmi]
+lévő lévő [Adj][semmi]
+Safari Safari [N][semmi]
+Safari Safari [N][nulla]
+böngésző böngésző [N][nom]
+böngésző böngésző [N][nulla]
+tökéletes tökéletes [Adj][pred]
+tökéletes tökéletes [Adj][nomorpred]
+javítanivalók javítanivaló [N][Pl][nom]
+javítanivalók javítanivaló [N][Pl][nom]
+
+ 
+95: A három gyerek megpróbálja visszaszerezni a musztángot , de Tylert elfogják a tolvajok . # #
+három három [Num][semmi]
+három három [Num][semmi]
+gyerek gyerek [N][nom]
+gyerek gyerek [N][nom]
+tolvajok tolvaj [N][Pl][nom]
+tolvajok tolvaj [N][Pl][nom]
+
+ 
+96: Mi úgy léphetünk közbe , ha megpróbáljuk a lehető legkisebbre csökkenteni fogaink kitettségét ennek a savas környezetnek . # #
+Mi mi [N|Pro][1Pl][nom]
+Mi mi [N|Pro][1Pl][nomorpred]
+lehető lehető [Adj][semmi]
+lehető lehető [Adj][semmi]
+fogaink fog [N][Pl.Poss.1Pl][gen]
+fogaink fog [N][Pl.Poss.1Pl][gen]
+savas savas [Adj][semmi]
+savas savas [Adj][semmi]
+
+ 
+97: Tekintve , hogy több képviselőtársunk nem jelentkezett , a vita e szakaszát lezárom , és a második vitaszakaszt nyitom meg , az ajánlás 11-15. pontjai szerint . # #
+képviselőtársunk képviselőtárs [N][Poss.1Pl][nom]
+képviselőtársunk képviselőtárs [N][Poss.1Pl][nomorpred]
+vita vita [N][gen]
+vita vita [N][nom]
+ajánlás ajánlás [N][gen]
+ajánlás ajánlás [N][gen]
+pontjai pont [N][Pl.Poss.3Sg][semmi]
+pontjai pont [N][Pl.Poss.3Sg][semmi]
+
+ 
+98: Ameerega picta nyílméregbéka Legalább 130 új békafajt fedeztek fel Madagaszkár szigetén Húsevő hangyák vethetnek véget az óriás varangyok rémuralmának Válságos helyzetben a kétéltűek H._Martin_Garraffo és munkatársai az amerikai National_Institutes_of_Health ( NIH ) egyik laboratóriumában tanulmányozták a nyílméregbékafélék ( Dendrobatidae ) családjába tartozó kétéltűek méreganyagait . # #
+Ameerega Ameerega [N][nulla]
+Ameerega Ameerega [N][nulla]
+picta picta [N][nulla]
+picta picta [N][nulla]
+nyílméregbéka nyílméregbéka [N][nulla]
+nyílméregbéka nyílméregbéka [N][nulla]
+130 130 [Num|Digit][semmi]
+130 130 [Num|Digit][semmi]
+új új [Adj][semmi]
+új új [Adj][semmi]
+Madagaszkár Madagaszkár [N][gen]
+Madagaszkár Madagaszkár [N][gen]
+Húsevő húsevő [Adj][semmi]
+Húsevő húsevő [Adj][semmi]
+hangyák hangya [N][Pl][nom]
+hangyák hangya [N][Pl][nom]
+óriás óriás [Adj][semmi]
+óriás óriás [Adj][semmi]
+varangyok varangy [N][Pl][gen]
+varangyok varangy [N][Pl][gen]
+Válságos válságos [Adj][semmi]
+Válságos válságos [Adj][semmi]
+kétéltűek kétéltű [Adj][Pl][hiba]
+kétéltűek kétéltű [Adj][Pl][gen]
+H._Martin_Garaffo Martin [N][nulla]
+H._Martin_Garaffo Martin [N][nulla]
+munkatársai munkatárs [N][Pl.Poss.3Sg][nomorpred]
+munkatársai munkatárs [N][Pl.Poss.3Sg][pred]
+amerikai amerikai [Adj][semmi]
+amerikai amerikai [Adj][semmi]
+National_Institutes_of_Health National_Institutes_of_Health [N][gen]
+National_Institutes_of_Health National_Institutes_of_Health [N][gen]
+NIH NIH [N][nomorpred]
+NIH NIH [N][pred]
+egyik egyik [Adj|Pro][gen]
+egyik egyik [Adj|Pro][semmi]
+nyílméregbékafélék nyílméregbékaféle [N][Pl][nomorpred]
+nyílméregbékafélék nyílméregbékaféle [N][Pl][nom]
+tartozó tartozó [Adj][semmi]
+tartozó tartozó [Adj][semmi]
+kétéltűek kétéltű [N][Pl][gen]
+kétéltűek kétéltű [N][Pl][gen]
+
+ 
+99: Lehet , hogy ismét évtizedekig piacon marad ? # #
+
+ 
+100: Kérem , most szavazzanak ! # #
